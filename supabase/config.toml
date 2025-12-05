@@ -1,0 +1,4 @@
+project_id = "dbmxxldmywhvjnkxedas"
+
+[functions.generate-prediction]
+verify_jwt = false
